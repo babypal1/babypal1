@@ -10,7 +10,7 @@ Currently, I am continuously improving my skills through hands-on practice, pers
 
 ## 🚀 About Me
 
-* 📊 Aspiring Data Analyst
+* 📊 Data Analyst
 * 🐍 Working with Python for Data Analysis
 * 🗄️ Learning SQL for Data Extraction and Analysis
 * 📈 Building Interactive Dashboards using Power BI
@@ -102,9 +102,9 @@ My goal is to build a successful career as a **Data Analyst**, where I can use d
 
 ## 🤝 Connect With Me
 
-💼 **LinkedIn:** *Add your LinkedIn profile here*
+💼 **LinkedIn:** https://www.linkedin.com/in/baby-pal-0238951a7/
 
-📧 **Email:** *Add your email address here*
+📧 **Email:** babypal0601@gmail.com
 
 ---
 
